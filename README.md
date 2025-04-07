@@ -24,7 +24,7 @@ An AI-powered recommendation engine that suggests the **top 5 freelancers** for 
 ## 📁 Project Structure
 
 ```
-freelancer-recommendation/
+AI-Based-Freelancer-Recommendation-System/
 ├── controller.py
 ├── F_Recommendation.py
 ├── requirements.txt
@@ -101,7 +101,7 @@ freelancer-recommendation/
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/your-username/freelancer-recommendation.git
+git clone https://github.com/ADPatel07/AI-Based-Freelancer-Recommendation-System.git
 cd freelancer-recommendation
 ```
 
