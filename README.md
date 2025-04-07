@@ -102,7 +102,7 @@ AI-Based-Freelancer-Recommendation-System/
 1. **Clone the repo**
 ```bash
 git clone https://github.com/ADPatel07/AI-Based-Freelancer-Recommendation-System.git
-cd freelancer-recommendation
+cd AI-Based-Freelancer-Recommendation-System
 ```
 
 2. **Install dependencies**
