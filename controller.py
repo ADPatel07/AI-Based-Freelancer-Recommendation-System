@@ -12,6 +12,6 @@ class Job(BaseModel):
     timeline_days:int
 
 @app.post("/recommend/")
-async def addImage(job:Job):
+async def recommend(job:Job):
     res = recommend_freelancers(job.model_dump())
     return JSONResponse(res)
